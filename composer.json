@@ -1,0 +1,7 @@
+{
+    "name": "rockerox/extjs",
+    "description": "The ExtJS library is available from this git repository for inclusion as a 
+git-submodule in your project so long as you are using the library in 
+accordance with the ExtJS license",
+    "type": "component"
+}
